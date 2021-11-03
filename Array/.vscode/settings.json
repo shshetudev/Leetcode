@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "_1_Two_Sum/java/Sol2_Using_HashMap",
-        "_1_Two_Sum/java/Sol1_Traverse_each_element"
+        "_1_Two_Sum/java/Sol1_Traverse_each_element",
+        "_26_Remove_Duplicates_From_Sorted_Array/java"
     ]
 }
